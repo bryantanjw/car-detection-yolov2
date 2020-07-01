@@ -1,6 +1,6 @@
 # Car Detection with YOLO
 
-### This is the Week 3 programming assignment on Convolutional Neural Network for [deeplearning.ai](https://www.coursera.org/specializations/deep-learning?).
+### This was intended for the Week 3 programming assignment on Convolutional Neural Network for [deeplearning.ai](https://www.coursera.org/specializations/deep-learning?).
 
 ## Summary for YOLO
 Input image (608, 608, 3)
